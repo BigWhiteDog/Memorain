@@ -1,7 +1,7 @@
 #ifndef __TOKEN_BUCKET_H_
 #define __TOKEN_BUCKET_H_
 
-#include "common.h"
+#include "common.hh"
 #include "info.hh"
 #include "mem/packet.hh"
 #include "mem/request.hh"
